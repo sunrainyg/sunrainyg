@@ -78,3 +78,5 @@
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunrainyg&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
+
+Email: ganyulu@stu.pku.edu.cn / yulu_gan@mit.edu
