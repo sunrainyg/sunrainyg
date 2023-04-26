@@ -68,4 +68,4 @@
     <span>&emsp;&emsp;</span>
 </div>
 
-Email: ganyulu@stu.pku.edu.cn / yulu_gan@mit.edu
+Email: ganyulu@stu.pku.edu.cn
