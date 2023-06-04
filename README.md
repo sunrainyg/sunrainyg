@@ -12,10 +12,11 @@
     </a> -->
 </p>
 
-### 💡 Research Interests
-    I'am interested in Computer Vision, multi-modal learning and generative AI. My research goal is to explore novel paradigms in machine learning in order to improve model generalization and robustness. Additionally, I aim to investigate the development of next-generation algorithms inspired by neuroscience. Currently, my research focuses on establishing a connection between generative models and computer vision, aiming to create a unified model known as a 'vision generalist.' This model will possess the capability to perform diverse visual tasks while exhibiting strong generalization abilities. Moreover, my research involves exploring the potential of more interpretable and biologically-inspired neural networks.
+### Research Interests
+
+[![pC9hAfA.png](https://s1.ax1x.com/2023/06/04/pC9hAfA.png)](https://imgse.com/i/pC9hAfA)
     
-### 🔨 Skills and Tools
+### Skills and Tools
 
 <div align="center">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -62,7 +63,7 @@
     </a>
 </div>
 
-### 📈 Github Statistics
+### Github Statistics
 
 <div align="center">
     <span>&emsp;&emsp;</span>
