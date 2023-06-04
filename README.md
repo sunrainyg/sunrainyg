@@ -12,7 +12,9 @@
     </a> -->
 </p>
 
-
+### 💡 Research Interests
+    I'am interested in Computer Vision, multi-modal learning and generative AI. My research goal is to explore novel paradigms in machine learning in order to improve model generalization and robustness. Additionally, I aim to investigate the development of next-generation algorithms inspired by neuroscience. Currently, my research focuses on establishing a connection between generative models and computer vision, aiming to create a unified model known as a 'vision generalist.' This model will possess the capability to perform diverse visual tasks while exhibiting strong generalization abilities. Moreover, my research involves exploring the potential of more interpretable and biologically-inspired neural networks.
+    
 ### 🔨 Skills and Tools
 
 <div align="center">
