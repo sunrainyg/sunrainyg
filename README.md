@@ -1,7 +1,6 @@
 <p> 
-  <a href="https://github.com/sunrainyg"> <img src="https://img.shields.io/badge/" height="25px" alt="Yulu Gan">
   <a href="https://www.semanticscholar.org/author/Yulu-Gan/2142286278"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
-  <a href="https://twitter.com/yule_gan"><img src="https://img.shields.io/twitter/follow/jinkuncao" height="25px" alt="Twiiter"> </a>
+  <a href="https://twitter.com/yule_gan"><img src="https://img.shields.io/twitter/follow/yulugan" height="25px" alt="Twiiter"> </a>
 </p> 
 
 
@@ -9,7 +8,7 @@
 <tbody>
   <tr>
     <td width="16%">
-        <a href="http://www.jinkuncao.com/static/img/photonew.bc798d3.jpg"><img alt="Jinkun Cao" src="http://www.jinkuncao.com/static/img/photonew.bc798d3.jpg" width="100%"></a>
+        <a href="http://www.yulugan.com/static/img/photonew.bc798d3.jpg"><img alt="Yulu" src="http://www.jinkuncao.com/static/img/photonew.bc798d3.jpg" width="100%"></a>
     </td>
     <td>
     <p> 
@@ -17,7 +16,7 @@
     </p>
     </td>
     <td width="50%" padding="0">
-        <p align="middle" width="100%" padding="0"> <img src="https://github-readme-stats.vercel.app/api?username=noahcao&show_icons=true&include_all_commits=true&theme=vue&count_private=true" alt="noahcao" /> </p>
+        <p align="middle" width="100%" padding="0"> <img src="https://github-readme-stats.vercel.app/api?username=sunrainyg&show_icons=true&include_all_commits=true&theme=vue&count_private=true" alt="sunrainyg" /> </p>
     </td>
    </tr>
 </tbody>
