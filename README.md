@@ -1,6 +1,6 @@
 <p> 
   <a href="https://scholar.google.com/citations?user=hQ-J_eAAAAAJ&hl=en"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
-  <a href="https://twitter.com/yule_gan"><img src="https://img.shields.io/twitter/follow/yulugan" height="25px" alt="Twiiter"> </a>
+<!--   <a href="https://twitter.com/yule_gan"><img src="https://img.shields.io/twitter/follow/yulugan" height="25px" alt="Twiiter"> </a> -->
 </p> 
 
 
