@@ -12,7 +12,7 @@
     </td>
     <td>
     <p> 
-        I am Yulu, a Master's student in Peking University. I am interested in computer vision and machine learning.
+        I am Yulu Gan, a Master's student in Peking University. I am interested in Computer Vision and Machine Learning.
     </p>
     </td>
     <td width="50%" padding="0">
