@@ -17,7 +17,7 @@
     <p> 
       I am Yulu Gan, an incoming PhD student at CSAIL, MIT, where I study computer vision and embodied intelligence. Previously, I was a visiting student at CBMM, MIT, studying machine learning theory. I also spent several months conducting remote research at EECS, UC Berkeley, in 2023. I interned at Microsoft and received my master's degree from Peking University in 2024.
       <p>
-      To chat about research, please contact me at yulugan1@gmail.com.
+      To chat about research, please contact me at yulugan1@gmail.com
     </p>
     </td>
    </tr>
