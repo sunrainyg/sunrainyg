@@ -15,11 +15,8 @@
     </td>
     <td>
     <p> 
-        I am Yulu Gan, an incoming PhD student at MIT CSAIL. I study computer vision and embodied intelligence. Previously, I interned at Microsoft and I received my master's degree from Peking University in 2024.
+      I am Yulu Gan, an incoming PhD student at CSAIL, MIT, where I study computer vision and embodied intelligence. Previously, I was a visiting student at CBMM, MIT, and I also spent several months conducting remote research at EECS, UC Berkeley, in 2023. I interned at Microsoft and received my master's degree from Peking University in 2024."
     </p>
-    </td>
-    <td width="50%" padding="0">
-        <p align="middle" width="100%" padding="0"> <img src="https://github-readme-stats.vercel.app/api?username=sunrainyg&show_icons=true&include_all_commits=true&theme=vue&count_private=true" alt="sunrainyg" /> </p>
     </td>
    </tr>
 </tbody>
