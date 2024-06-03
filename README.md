@@ -15,20 +15,20 @@
         I am Yulu Gan, an incoming PhD student at CSAIL, MIT.
       </p>
         <p>
-        Previously, I was a visiting student at CBMM, MIT, studying machine learning theory. I also spent several months conducting remote research at EECS, UC Berkeley, in 2023. I interned at Microsoft and received my master's degree from Peking University in 2024.
+        Previously, I was a visiting student at CBMM, MIT, studying ML theory. I also spent several months conducting remote research at EECS, UC Berkeley, in 2023. I interned at Microsoft and received my master's degree from Peking University in 2024.
         </p>
       <p>
         To chat about research, please contact me at yulugan1@gmail.com
       </p>
-      <h4>Interests</h4>
-      Swimming, Basketball, Badminton, Skiing, Saxophone
+    <h4>Interests Beyond Research</h4>
+    Swimming, Basketball, Badminton, Skiing, Saxophone
     </td>
     <td>
       <h4>Blogs</h4>
       <p> You can find some of my <a href="https://www.zhihu.com/people/gan-yu-lu-7/posts">blogs</a> here about machine learning, computer vision, and reinforcement learning in Chinese.</p>
       <h4>Recent talk:</h4> 
       <p><a href="https://www.youtube.com/watch?v=8ThEl18jYGw&t=20s">How to build Vision Generalists</a> - the presentation for the ICLR paper InstructCV.</p>
-      <p><a href="http://www.yulugan.com/projects/VDP.html">Visual prompting for continual test time adaptation</a> - the presentation for the AAAI Outstanding Student Paper VDP.</p>
+      <p><a href="http://www.yulugan.com/projects/VDP.html">Visual Prompting for Continual Test Time Adaptation</a> - the presentation for the AAAI Outstanding Student Paper VDP.</p>
     </td>
    </tr>
 </tbody>
