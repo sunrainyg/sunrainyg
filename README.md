@@ -33,7 +33,7 @@
     </td>
     <td>
       <h4>Blogs</h4>
-      <p>Find my <a href="https://www.zhihu.com/people/gan-yu-lu-7/posts">blogs</a> on ML, CV, and RL in Chinese.</p>
+      <p>Some of my early <a href="https://www.zhihu.com/people/gan-yu-lu-7/posts">blogs</a> on ML, CV, and RL in Chinese.</p>
       <h4>Recent talks:</h4> 
       <p><a href="https://www.youtube.com/watch?v=8ThEl18jYGw&t=20s">How to build Vision Generalists</a> - the presentation for the ICLR paper InstructCV.</p>
       <p><a href="http://www.yulugan.com/projects/VDP.html">Visual Prompting for Continual Test Time Adaptation</a> - the presentation for the AAAI Outstanding Student Paper VDP.</p>
