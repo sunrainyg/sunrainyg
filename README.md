@@ -21,7 +21,7 @@
         To chat about research, please contact me at yulugan1@gmail.com
       </p>
     <h4>Interests Beyond Research</h4>
-    Swimming, Basketball, Badminton, Skiing, Saxophone
+    Swimming, Basketball, Badminton, Reading, Saxophone
     </td>
     <td>
       <h4>Blogs</h4>
