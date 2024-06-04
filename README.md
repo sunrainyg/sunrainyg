@@ -19,7 +19,7 @@
       </p>
       <p>
         Some awards:
-      National Scholarship; Clarendon Scholarships, Oxford; Chiang Chen Fellowship.
+      National Scholarship; Clarendon Scholarships, Oxford; Chiang Chen Fellowship. Chinese Mathematics Olympiad (Zhejiang Province), First Prize
       </p>
     <h4>Research interests</h4>
       <p>
