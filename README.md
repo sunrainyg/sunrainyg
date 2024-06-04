@@ -18,8 +18,7 @@
         Previously, I interned at Microsoft and graduated from Peking University in 2024. In 2023, I was a visiting student at CBMM, MIT, studying ML theory, and also conducted several months of remote research at EECS, UC Berkeley.
       </p>
       <p>
-        Some awards:
-      National Scholarships; Clarendon Scholarships at Oxford; Chiang Chen Fellowship; First Prize in the Chinese Mathematics Olympiad, Zhejiang Province; and Second Prize at RoboCup.
+        I have been fortunate to receive several accolades, including National Scholarships, Clarendon Scholarships at Oxford, the Chiang Chen Fellowship, a First Prize in the Chinese Mathematics Olympiad in Zhejiang Province, and a Second Prize at RoboCup.
       </p>
     <h4>Research interests</h4>
       <p>
