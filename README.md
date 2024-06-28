@@ -15,7 +15,7 @@
         Hi there, I am Yulu Gan, an incoming PhD student at CSAIL, MIT.
       </p>
         <p>
-        Previously, I graduated from Peking University in June 2024. In 2023, I was a visiting student at CBMM, MIT, studying ML theory, and also conducted several months of remote research at EECS, UC Berkeley.
+        Previously, I graduated from Peking University in July 2024. In 2023, I was a visiting student at CBMM, MIT, studying ML theory, and also conducted several months of remote research at EECS, UC Berkeley.
       </p>
     <h4>Research interests</h4>
       <p>
