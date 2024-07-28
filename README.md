@@ -19,7 +19,7 @@
       </p>
     <h4>Research interests</h4>
       <p>
-      I am interested in understanding the emergence of intelligence via embodied agents and ML theory.
+      I am interested in multimodalities and exploring the emergence of intelligence.
       </p>
       <p>
       To chat about research, please contact me at yulugan1@gmail.com
