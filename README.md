@@ -12,7 +12,7 @@
     <td>
       <h4>Bio</h4>
       <p> 
-        Hi there, I am Yulu Gan, an incoming PhD student at CSAIL, MIT.
+        Hi there, I am Yulu Gan, a PhD student at CSAIL, MIT.
       </p>
         <p>
         Previously, I graduated from Peking University in July 2024. In 2023, I was a visiting student at CBMM, MIT, studying ML theory, and also conducted several months of remote research at EECS, UC Berkeley.
@@ -20,9 +20,6 @@
     <h4>Research interests</h4>
       <p>
       I am interested in multimodalities and exploring the emergence of intelligence.
-      </p>
-      <p>
-      To chat about research, please contact me at yulugan1@gmail.com
       </p>
     <h4>Interests Beyond Research</h4>
     Swimming, Basketball, Badminton, Reading, Saxophone
